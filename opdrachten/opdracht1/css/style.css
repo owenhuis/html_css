@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+
+/* p {
+    display: flex;
+} */
+.img1{
+    float: left;
+}
+.img2{
+    float:right;
+}
+.img3{
+    float:left;
+}
