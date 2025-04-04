@@ -1,0 +1,17 @@
+body {
+    margin: 0 auto;
+    width: 50%;
+}
+img {
+    display: block;
+}
+.lijn {
+    height: 2px;
+    background-color: black;
+    width: 100%;
+    margin: 20px 0;
+}
+.tip_footer {
+    background-color: rgb(128, 255, 225);
+    display: inline-flex;
+}
